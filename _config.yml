@@ -1,20 +1,4 @@
-name: Electric Penguin
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.35418
-title: The Electric Penguin
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#020202'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9920127815566957
   saturation: 0.13077022600919008
   rhythmicContrast: 0.7970138685777783
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Electric Penguin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Electric Penguin
+description: A lovely tagline goes here...
 purpose: []
